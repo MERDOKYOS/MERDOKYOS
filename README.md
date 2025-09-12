@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MERDOKYOS</h1>
-<h3 align="center">A passionate fullstack developer from Ethiopia</h3>
+<h3 align="center">A passionate fullstack development student from Ethiopia</h3>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -7,11 +7,8 @@
   <a href="https://www.linkedin.com/in/merdokyos-sm-b76a8a341/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://t.me/MERDOKYOS" target="blank">
+  <a href="https://t.me/MERDOKYOS_SM" target="blank">
     <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="mailto:surafelsm@894.com" target="blank">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
