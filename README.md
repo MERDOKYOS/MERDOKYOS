@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MERDOKYOS</h1>
-<h3 align="center">A passionate fullstack development student from Ethiopia</h3>
+<h3 align="center">A Passionate Fullstack Developer</h3>
 
 
 <h3 align="left">Connect with me:</h3>
