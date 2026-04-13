@@ -12,8 +12,6 @@
   </a>
 </p>
 
-
--  ****I enjoy keeping up with tech news.****
   
 
 <h3 align="left">Languages and Tools:</h3>
