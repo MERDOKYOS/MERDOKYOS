@@ -24,7 +24,6 @@
   <img src="https://skillicons.dev/icons?i=cpp,html,css,js,nodejs,react,python,git" />
 </p>
 
----
 
 ## GitHub Stats
 <p align="center">
@@ -32,22 +31,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=merdokyos&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
----
 
 ## GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=merdokyos&theme=tokyonight" />
 </p>
 
----
 
 ## About Me
 -  Currently working on **Fullstack Projects**
 -  Learning **Advanced Backend & AI Integration**
 -  Interested in AI tools, and real-world problem solving**
--  Fun fact: I love turning ideas into working apps
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=merdokyos&label=Profile%20views&color=0e75b6&style=flat" />
