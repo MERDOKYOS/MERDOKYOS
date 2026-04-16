@@ -41,13 +41,6 @@
 
 ---
 
-## Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=merdokyos&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## About Me
 -  Currently working on **Fullstack Projects**
 -  Learning **Advanced Backend & AI Integration**
